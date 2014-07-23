@@ -5,7 +5,7 @@
 ## 1. Create a square matrix, for example: 
 ##    > a <- matrix(c(3,1,5,2,3,3,2,1,4),3,3)
 ## 2. Create an object that will be responsible for caching inverted matrix,
-## for example: 
+## for example:  
 ##    > a_cache <- makeCacheMatrix(a)
 ##    Function makeCacheMatrix(x) creates environment, which contains:
 ##      two variables (you can't access to it directly, it looks like private fields
